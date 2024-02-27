@@ -6,7 +6,9 @@ so good luck i guess
 to run this program make sure to do the following in your python env:
 
 pip install openai
+
 pip install praw
+
 pip install streamlit
 
 
